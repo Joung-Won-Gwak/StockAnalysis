@@ -1,0 +1,8 @@
+{
+  "name": "AlphaTrade Pro Dashboard",
+  "description": "A high-performance stock trading and market analysis dashboard featuring real-time data visualization, technical indicators, and AI-powered market sentiment analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
